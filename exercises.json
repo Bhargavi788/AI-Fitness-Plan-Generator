@@ -1,0 +1,453 @@
+[
+  {
+    "exercise_name": "Push-up",
+    "muscle_group": "Chest",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Sagging hips, flaring elbows"
+  },
+  {
+    "exercise_name": "Bodyweight Squat",
+    "muscle_group": "Legs",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "10-15",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Knees caving in, heels lifting"
+  },
+  {
+    "exercise_name": "Plank",
+    "muscle_group": "Core",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "45-60s",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Hips too high or low"
+  },
+  {
+    "exercise_name": "Lunge",
+    "muscle_group": "Legs",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Forward knee beyond toes"
+  },
+  {
+    "exercise_name": "Glute Bridge",
+    "muscle_group": "Legs",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "12-15",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Overextending lower back"
+  },
+  {
+    "exercise_name": "Chair Dip",
+    "muscle_group": "Arms",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Shoulder strain, too deep"
+  },
+  {
+    "exercise_name": "Inverted Row (Pull-up bar or table)",
+    "muscle_group": "Back",
+    "difficulty": "Beginner",
+    "equipment_needed": "pull-up bar",
+    "recommended_sets": 3,
+    "recommended_reps": "6-10",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Hips sagging, pulling with arms only"
+  },
+  {
+    "exercise_name": "Jumping Jack",
+    "muscle_group": "Cardio",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "60s",
+    "rest_time_seconds": 30,
+    "common_mistakes": "Landing too hard"
+  },
+  {
+    "exercise_name": "Mountain Climber",
+    "muscle_group": "Full Body",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "30-45s",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Hips bouncing, poor core engagement"
+  },
+  {
+    "exercise_name": "Standing Calf Raise",
+    "muscle_group": "Legs",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "12-15",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Using momentum instead of controlled motion"
+  },
+  {
+    "exercise_name": "Doorway Row (resistance band)",
+    "muscle_group": "Back",
+    "difficulty": "Beginner",
+    "equipment_needed": "resistance band",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Yanking the band, poor scapular retraction"
+  },
+  {
+    "exercise_name": "Resistance Band Biceps Curl",
+    "muscle_group": "Arms",
+    "difficulty": "Beginner",
+    "equipment_needed": "resistance band",
+    "recommended_sets": 3,
+    "recommended_reps": "10-15",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Swinging torso"
+  },
+  {
+    "exercise_name": "Resistance Band Lateral Raise",
+    "muscle_group": "Shoulders",
+    "difficulty": "Beginner",
+    "equipment_needed": "resistance band",
+    "recommended_sets": 3,
+    "recommended_reps": "10-12",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Shrugging shoulders"
+  },
+  {
+    "exercise_name": "Dumbbell Row",
+    "muscle_group": "Back",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Twisting torso"
+  },
+  {
+    "exercise_name": "Dumbbell Shoulder Press",
+    "muscle_group": "Shoulders",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 75,
+    "common_mistakes": "Arching lower back"
+  },
+  {
+    "exercise_name": "Dumbbell Chest Press",
+    "muscle_group": "Chest",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 75,
+    "common_mistakes": "Bouncing weights off chest"
+  },
+  {
+    "exercise_name": "Barbell Back Squat",
+    "muscle_group": "Legs",
+    "difficulty": "Advanced",
+    "equipment_needed": "barbell",
+    "recommended_sets": 4,
+    "recommended_reps": "6-10",
+    "rest_time_seconds": 120,
+    "common_mistakes": "Knees caving, leaning forward"
+  },
+  {
+    "exercise_name": "Barbell Deadlift",
+    "muscle_group": "Back",
+    "difficulty": "Advanced",
+    "equipment_needed": "barbell",
+    "recommended_sets": 4,
+    "recommended_reps": "4-8",
+    "rest_time_seconds": 150,
+    "common_mistakes": "Rounded back"
+  },
+  {
+    "exercise_name": "Pull-up",
+    "muscle_group": "Back",
+    "difficulty": "Advanced",
+    "equipment_needed": "pull-up bar",
+    "recommended_sets": 4,
+    "recommended_reps": "4-8",
+    "rest_time_seconds": 90,
+    "common_mistakes": "Kipping uncontrolled"
+  },
+  {
+    "exercise_name": "Assisted Pull-up (band)",
+    "muscle_group": "Back",
+    "difficulty": "Intermediate",
+    "equipment_needed": "resistance band",
+    "recommended_sets": 3,
+    "recommended_reps": "6-10",
+    "rest_time_seconds": 90,
+    "common_mistakes": "Partial range of motion"
+  },
+  {
+    "exercise_name": "Dumbbell Walking Lunge",
+    "muscle_group": "Legs",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "10 per leg",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Too short step length"
+  },
+  {
+    "exercise_name": "Bench Press (Barbell)",
+    "muscle_group": "Chest",
+    "difficulty": "Advanced",
+    "equipment_needed": "barbell",
+    "recommended_sets": 4,
+    "recommended_reps": "6-10",
+    "rest_time_seconds": 120,
+    "common_mistakes": "Elbow flaring"
+  },
+  {
+    "exercise_name": "Dumbbell Fly",
+    "muscle_group": "Chest",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "10-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Dropping elbows too low"
+  },
+  {
+    "exercise_name": "Cable Triceps Pushdown (machine)",
+    "muscle_group": "Arms",
+    "difficulty": "Intermediate",
+    "equipment_needed": "machine",
+    "recommended_sets": 3,
+    "recommended_reps": "10-15",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Using shoulders"
+  },
+  {
+    "exercise_name": "Hammer Curl (Dumbbells)",
+    "muscle_group": "Arms",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Swinging body"
+  },
+  {
+    "exercise_name": "Russian Twist",
+    "muscle_group": "Core",
+    "difficulty": "Intermediate",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "20",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Using momentum, rounding back"
+  },
+  {
+    "exercise_name": "Hollow Body Hold",
+    "muscle_group": "Core",
+    "difficulty": "Advanced",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "30-45s",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Arching lower back"
+  },
+  {
+    "exercise_name": "Kettlebell Swing (use dumbbell if no kettlebell)",
+    "muscle_group": "Full Body",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 4,
+    "recommended_reps": "12-15",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Squatting instead of hinging"
+  },
+  {
+    "exercise_name": "Burpee",
+    "muscle_group": "Full Body",
+    "difficulty": "Advanced",
+    "equipment_needed": "none",
+    "recommended_sets": 4,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Poor landing mechanics"
+  },
+  {
+    "exercise_name": "Stationary Bike (Cardio)",
+    "muscle_group": "Cardio",
+    "difficulty": "Beginner",
+    "equipment_needed": "machine",
+    "recommended_sets": 1,
+    "recommended_reps": "20-30min",
+    "rest_time_seconds": 0,
+    "common_mistakes": "Poor posture, too high resistance"
+  },
+  {
+    "exercise_name": "Incline Push-up",
+    "muscle_group": "Chest",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Too much neck tension"
+  },
+  {
+    "exercise_name": "Face Pull (resistance band)",
+    "muscle_group": "Shoulders",
+    "difficulty": "Intermediate",
+    "equipment_needed": "resistance band",
+    "recommended_sets": 3,
+    "recommended_reps": "12-15",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Using arms instead of scapular movement"
+  },
+  {
+    "exercise_name": "Farmer's Carry (dumbbells)",
+    "muscle_group": "Full Body",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "30-60s",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Leaning to one side"
+  },
+  {
+    "exercise_name": "Jump Rope",
+    "muscle_group": "Cardio",
+    "difficulty": "Intermediate",
+    "equipment_needed": "none",
+    "recommended_sets": 4,
+    "recommended_reps": "60s",
+    "rest_time_seconds": 30,
+    "common_mistakes": "Jumping too high"
+  },
+  {
+    "exercise_name": "Single-Leg Romanian Deadlift (dumbbell)",
+    "muscle_group": "Legs",
+    "difficulty": "Advanced",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "8-10",
+    "rest_time_seconds": 75,
+    "common_mistakes": "Dropping chest, unstable hip"
+  },
+  {
+    "exercise_name": "Hip Thrust (barbell or dumbbell)",
+    "muscle_group": "Legs",
+    "difficulty": "Intermediate",
+    "equipment_needed": "barbell",
+    "recommended_sets": 4,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 90,
+    "common_mistakes": "Overarching lower back"
+  },
+  {
+    "exercise_name": "Triceps Overhead Extension (dumbbell)",
+    "muscle_group": "Arms",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "10-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Using elbows too wide"
+  },
+  {
+    "exercise_name": "Side Plank",
+    "muscle_group": "Core",
+    "difficulty": "Intermediate",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "30-45s",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Dropping hips"
+  },
+  {
+    "exercise_name": "Sprints (outdoor)",
+    "muscle_group": "Cardio",
+    "difficulty": "Advanced",
+    "equipment_needed": "none",
+    "recommended_sets": 6,
+    "recommended_reps": "30s sprints",
+    "rest_time_seconds": 90,
+    "common_mistakes": "Poor sprint form, overstriding"
+  }
+  ,
+  {
+    "exercise_name": "Pike Push-up",
+    "muscle_group": "Shoulders",
+    "difficulty": "Intermediate",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "6-10",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Bending at the elbows instead of hinging at hips"
+  },
+  {
+    "exercise_name": "Wall Sit",
+    "muscle_group": "Legs",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "30-60s",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Leaning forward, knees beyond toes"
+  },
+  {
+    "exercise_name": "Glute March",
+    "muscle_group": "Legs",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 3,
+    "recommended_reps": "12-16",
+    "rest_time_seconds": 45,
+    "common_mistakes": "Not keeping core engaged"
+  },
+  {
+    "exercise_name": "Seated Row (machine)",
+    "muscle_group": "Back",
+    "difficulty": "Intermediate",
+    "equipment_needed": "machine",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Using momentum, not retracting shoulder blades"
+  },
+  {
+    "exercise_name": "Incline Dumbbell Row",
+    "muscle_group": "Back",
+    "difficulty": "Intermediate",
+    "equipment_needed": "dumbbells",
+    "recommended_sets": 3,
+    "recommended_reps": "8-12",
+    "rest_time_seconds": 60,
+    "common_mistakes": "Jerking the weight, dropping the shoulder"
+  },
+  {
+    "exercise_name": "Outdoor Cycling",
+    "muscle_group": "Cardio",
+    "difficulty": "Beginner",
+    "equipment_needed": "none",
+    "recommended_sets": 1,
+    "recommended_reps": "20-40min",
+    "rest_time_seconds": 0,
+    "common_mistakes": "Poor posture, low cadence"
+  }
+]
